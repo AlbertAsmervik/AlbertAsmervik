@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,redis,python,r,docker,java,dotnet,firebase,mysql" />
-    <img src="https://skillicons.dev/icons?i=mui,react,bootstrap,wordpress,javascript,typescript,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=mui,react,bootstrap,javascript,typescript,html,css" /><br>
 </div>
 
 <br/>
