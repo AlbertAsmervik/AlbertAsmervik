@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Datanalysis for classyfing sentiments of essays**
  
- 🌱 I’m currently learning **Pandas, Scikit-learn, SeaBorn and WordCloud**
+ 🌱 I’m currently learning **Pandas, Python and EDA**
 
 💬 Ask me about **Java, RDBMS, ... or anything [here](https://github.com/AlbertAsmervik/AlbertAsmervik/issues)**
 
