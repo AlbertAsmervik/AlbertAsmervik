@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,redis,python,r,docker,java,dotnet,firebase,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,redis,python,k8s,docker,java,dotnet,firebase,mysql" />
     <img src="https://skillicons.dev/icons?i=mui,react,bootstrap,javascript,typescript,html,css" /><br>
 </div>
 
@@ -50,17 +50,3 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
