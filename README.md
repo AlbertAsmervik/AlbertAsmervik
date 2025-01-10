@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Datanalysis for classyfing sentiments of essays**
+ 🔭 I’m currently working on **Automation enhancement with k8s operators**
  
- 🌱 I’m currently learning **Pandas, Python and EDA**
+ 🌱 I’m currently learning **Terraform, k8s and helm**
 
 💬 Ask me about **Java, RDBMS, ... or anything [here](https://github.com/AlbertAsmervik/AlbertAsmervik/issues)**
 
@@ -54,12 +54,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=AlbertAsmervik&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AlbertAsmervik&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AlbertAsmervik&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
 
 
 <br/><br/>
